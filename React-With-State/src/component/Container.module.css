@@ -1,0 +1,9 @@
+.container{
+    width: 40%;
+    min-width: 20%;
+    text-align: center;
+    padding: 12px;
+    margin: 12px;
+    border-radius: 5px;
+    border: 1px solid black;
+}
