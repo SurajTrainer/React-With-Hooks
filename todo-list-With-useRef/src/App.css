@@ -1,0 +1,23 @@
+
+
+
+div{
+    padding: 2px 0;
+    margin: 6px 0;
+}
+input{
+    width: 100%;
+}
+.form-row{
+    text-align: left;
+}
+
+.form-button{
+    width: 80px;
+}
+center{
+    width: 65%;
+    margin: auto;
+    font-weight: 700;
+    font-size: 17px;
+}
