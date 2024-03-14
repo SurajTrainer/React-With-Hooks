@@ -1,0 +1,44 @@
+
+
+.app-container {
+  display: flex;
+  margin: 0;
+}
+
+.app-content {
+  width: 100%;
+  padding: 0 29px;
+}
+
+.sidebar{
+  height: 500px;
+}
+
+.post-card{
+  margin: 20px 20px;
+  padding: 4px 23px;
+}
+
+.post-tags{
+  margin: 2px 5px;
+  padding: 2px 4px;
+}
+
+.reactions{
+  width: 100%;
+  margin: 17px 0 0 0;
+}
+
+.create-form{
+  width: 70%;
+  margin-top: 12px;
+  margin-left: 12px;
+}
+
+.welcome-msg{
+  margin: 60px 0;
+}
+
+.spinner{
+  margin: 10% 0;
+}
